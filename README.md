@@ -4,7 +4,7 @@ shutdown-monitor is a simple golang program intended to be run on a Raspberry Pi
 
 ### Prerequisites
 
-* [Go](https://golang.org/doc/install) - openbar-server is written in Go, so you'll need to install Go to build and run the project.
+* [Go](https://golang.org/doc/install) - shutdown-monitor is written in Go, so you'll need to install Go to build and run the project.
 * Git - `sudo apt install git`
 
 ### Installation From Source
